@@ -8,7 +8,6 @@ export default function RootLayout() {
             <Stack.Screen name="fullScreenRoute" options={{
                 headerShown: true,
                 title: "Full Screen Route",
-                headerBackTitleVisible: false
             }}/>
         </Stack>
     );
