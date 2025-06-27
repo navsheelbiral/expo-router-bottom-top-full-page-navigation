@@ -6,8 +6,8 @@ This repository contains the example used in my blog. To understand it better, h
 
 #### Step 1: Clone the application
 ```
-git clone https://github.com/navsheelbiral/expo-router-bottom-top-full-page-navigation.git 
-git clone git@github.com:navsheelbiral/expo-router-bottom-top-full-page-navigation.git
+git clone https://github.com/navsheelbiral/expo-router-bottom-top-full-page-navigation.git [HTTPS]
+git clone git@github.com:navsheelbiral/expo-router-bottom-top-full-page-navigation.git [SSH]
 ```
 
 #### Step 2: Install dependencies
@@ -15,7 +15,7 @@ git clone git@github.com:navsheelbiral/expo-router-bottom-top-full-page-navigati
 npm install
 ```
 
-#### Step 3: Spin the application
+#### Step 3: Spin up the application
 ```
 npm run start
 ```
