@@ -23,5 +23,23 @@ npm run start
 - Press ```i``` to choose to run it in an **iOS** simulator
 - Press ```a``` to choose to run it in an **Android** simulator
 
+### Folder Structure
+```
+app/
+|– (bottom-tabs)/
+|   |– _layout.tsx       ← Bottom tabs layout
+|   |– home              ← Home tab pages
+        |- _layout.tsx   ← Top tabs layout
+        |- following.tsx
+        |- forYou.tsx
+    |- messages          ← Messages tab pages
+        |- _layout.tsx   ← Top tabs layout
+        |- direct.tsx
+        |- group.tsx
+        |- starred.tsx
+|– _layout.tsx           ← Root layout
+|- fullScreenRoute.tsx   ← Full screen details page    
+```
+
 ### Raise an issue
 Feel free to raise a GitHub Issue if you find something that is breaking, I will be happy to help!
