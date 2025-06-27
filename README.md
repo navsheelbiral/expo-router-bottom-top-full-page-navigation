@@ -1,6 +1,6 @@
 ## 🧭 Expo Router 101: A Complete Guide to Bottom Tabs, Top Tabs, and Full-Page Navigation
 
-This repository contains the example used in my blog. To understand it better, have a read [here](https://medium.com/technogise/expo-router-101-a-complete-guide-to-bottom-tabs-top-tabs-and-full-page-navigation-0e9f3673cd34).
+This repository contains the example used in my blog. To understand it better, have a read <a href="https://medium.com/technogise/expo-router-101-a-complete-guide-to-bottom-tabs-top-tabs-and-full-page-navigation-0e9f3673cd34" target="_blank">here.</a>
 
 ### 🚀 Run the application
 
